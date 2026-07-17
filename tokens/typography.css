@@ -1,0 +1,15 @@
+:root{
+--font-display:'Fredoka','Montserrat',sans-serif;
+--font-body-family:'Montserrat',sans-serif;
+
+--type-hero-slider-size:80px;--type-hero-slider-weight:700;--type-hero-slider-lh:1.0;--type-hero-slider-ls:normal;
+--type-display-lg-size:48px;--type-display-lg-weight:700;--type-display-lg-lh:1.2;--type-display-lg-ls:normal;
+--type-display-md-size:37px;--type-display-md-weight:700;--type-display-md-lh:1.51;--type-display-md-ls:normal;
+--type-heading-sm-size:21px;--type-heading-sm-weight:700;--type-heading-sm-lh:1.6;--type-heading-sm-ls:normal;
+--type-eyebrow-size:19px;--type-eyebrow-weight:700;--type-eyebrow-lh:1.6;--type-eyebrow-ls:normal;
+--type-body-size:16px;--type-body-weight:400;--type-body-lh:1.8;--type-body-ls:normal;
+--type-button-size:16px;--type-button-weight:700;--type-button-lh:1.0;--type-button-ls:normal;
+--type-button-slider-size:18px;--type-button-slider-weight:700;--type-button-slider-lh:1.5;--type-button-slider-ls:1px;
+--type-link-footer-size:14.4px;--type-link-footer-weight:400;--type-link-footer-lh:2.0;--type-link-footer-ls:normal;
+--type-form-label-size:16px;--type-form-label-weight:700;--type-form-label-lh:1.2;--type-form-label-ls:normal;
+}

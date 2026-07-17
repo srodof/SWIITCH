@@ -1,0 +1,8 @@
+:root{
+--space-gap-sm:20px;--space-gap-md:40px;--space-gap-lg:60px;
+--space-section-pad-tight:1%;--space-section-pad-wide:5%;
+--space-section-min-h-sm:30vh;--space-section-min-h-md:40vh;--space-section-min-h-lg:50vh;
+--space-form-field-height:43px;
+--space-button-pad:10px 35px;--space-button-slider-pad:10px 18px;
+--breakpoint-mobile:767px;--breakpoint-tablet:1024px;
+}
