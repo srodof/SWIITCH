@@ -1,0 +1,11 @@
+{
+  "name": "swiitch-design-system",
+  "version": "0.1.0",
+  "private": true,
+  "description": "SWIITCH brand design system: guidelines, tokens, components, and UI kit reference implementations.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srodof/SWIITCH.git"
+  },
+  "license": "UNLICENSED"
+}
